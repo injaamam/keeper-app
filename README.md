@@ -1,4 +1,4 @@
-npm i
+#To install dependency: npm i
 
 #To start server: npm start
 
