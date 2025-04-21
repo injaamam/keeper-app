@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "keywords": [],
+  "homepage": "injaamam.github.io/keeper-app",
   "main": "src/index.js",
   "dependencies": {
     "react-scripts": "5.0.1",
